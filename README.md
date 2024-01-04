@@ -34,8 +34,7 @@ To use the PageRank algorithm:
 
 2. Open `pagerank.py` to explore the provided functions and the implementation of the PageRank algorithm.
 
-3. Run the program and provide the directory containing the corpus of web pages as a command-line argument.
-
+3. Run the program and provide the directory containing the corpus of web pages as a command-line argument. e.g. `python pagerank.py corpus0`
 4. The program will calculate PageRank using both the random surfer model and the iterative algorithm.
 
 ## Functions
